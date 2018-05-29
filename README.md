@@ -18,7 +18,9 @@ Daarna hebben we per fase in de Journey en rol [stories](https://docs.google.com
 Vervolgens hebben we een [moodboard](https://docs.google.com/presentation/d/e/2PACX-1vTeisnM6q_5L3mriUnCcLpNyiGq3GuEB1FXaIuvmpXiniOKMPI07RmZ3W2jSPs3qaJ2EB2Jt2ZnSLZR/pub?start=true&loop=true&delayms=5000&slide=id.g3b6f7d82c5_0_12) samengesteld met voorbeelden van website designs die aansluiten bij de stijl van MSI. 
 
 ## Sketch
-In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de website. Dit voeren we eerst op papier uit en daarna in een tekenprogramma. Bovendien genereren we een aantal brandboards.
+In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de website. Dit voeren we eerst op papier uit en daarna in een tekenprogramma. Bovendien genereren we een aantal brandboards:
+
+[![](webdesign/images/brandboard.png)](https://youtu.be/ucOGrA15OhM)
 
 
 
