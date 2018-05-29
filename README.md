@@ -25,7 +25,7 @@ In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de web
 Hiervoor gebruiken we [Canva](https://www.canva.com/).
 
 ## Design
-Hierna maken we een keuze voor een eerste ontwerp en worden de definitieve UX-stijl vastgelegd met een brandboard.
+Hierna maken we een keuze voor een eerste ontwerp en wordt de definitieve UX-stijl vastgelegd met een brandboard.
 
 ## Implement
 Op basis van het ontwerp en de brandboard wordt een betaversie van de website gebouwd.
