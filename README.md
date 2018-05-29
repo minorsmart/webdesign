@@ -24,4 +24,9 @@ In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de web
 
 
 ## Design
-In deze stap 
+Hierna maken we een keuze voor een eerste ontwerp en worden de definitieve UX-stijl vastegelegd in een brandboard.
+
+## Implement
+Op basis van het ontwerp en de brandboard wordt de website gebouwd.
+
+## 
