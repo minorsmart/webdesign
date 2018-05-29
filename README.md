@@ -20,7 +20,7 @@ Vervolgens hebben we een [moodboard](https://docs.google.com/presentation/d/e/2P
 ## Sketch
 In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de website. Dit voeren we eerst op papier uit en daarna in een tekenprogramma. Bovendien genereren we een aantal brandboards:
 
-![](webdesign/images/brandboard.png)
+[![](webdesign/images/brandboard.png)](https://youtu.be/ucOGrA15OhM)
 
 
 ## Design
