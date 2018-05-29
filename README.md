@@ -27,6 +27,9 @@ In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de web
 Hierna maken we een keuze voor een eerste ontwerp en worden de definitieve UX-stijl vastegelegd in een brandboard.
 
 ## Implement
-Op basis van het ontwerp en de brandboard wordt de website gebouwd.
+Op basis van het ontwerp en de brandboard wordt een betaversie van de website gebouwd.
 
-## 
+## Evaluate
+De betaversie wordt getest met behulp van een guerilla user test:
+
+[![](https://raw.githubusercontent.com/minorsmart/webdesign/master/images/usertest.png)](https://youtu.be/0YL0xoSmyZI)
