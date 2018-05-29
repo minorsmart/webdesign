@@ -8,10 +8,19 @@ Wij zijn het MSI Team OUX. Welkom op onze werkruimte. Wij ontwikkelen en beheren
 Het hier verzamelde materiaal is ingedeeld naar processtap.
 
 ## Understand
-
-We beginnen bij de vaststelling van de user stories. Als eerste structuur kiezen we voor het User Journey framework:
+We beginnen bij de vaststelling van de user stories. Als basisstructuur kiezen we voor het User Journey framework:
 
 ![](https://www.mijnmarketing.com/wp-content/uploads/customerjourney-mm-blog-1140x475.png)
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRsng8Tesgz6UkqTtDJ87hU6H7b10MNLrTsVqkgvdVcxQSPwz2k0zwCv7R7G-9KRj3V7K2XUyNfNS7i/pubhtml?widget=true&amp;headers=false"></iframe>
+Daarna hebben we per fase in de Journey en rol [stories](https://docs.google.com/spreadsheets/d/e/2PACX-1vRsng8Tesgz6UkqTtDJ87hU6H7b10MNLrTsVqkgvdVcxQSPwz2k0zwCv7R7G-9KRj3V7K2XUyNfNS7i/pubhtml) geformuleerd.
 
+## Research
+Vervolgens hebben we een [moodboard](https://docs.google.com/presentation/d/e/2PACX-1vTeisnM6q_5L3mriUnCcLpNyiGq3GuEB1FXaIuvmpXiniOKMPI07RmZ3W2jSPs3qaJ2EB2Jt2ZnSLZR/pub?start=true&loop=true&delayms=5000&slide=id.g3b6f7d82c5_0_12) samengesteld met voorbeelden van website designs die aansluiten bij de stijl van MSI. 
+
+## Sketch
+In deze stap creeren we de pagina-indelingen en de navigatiestructuur van de website. Dit voeren we eerst op papier uit en daarna in een tekenprogramma. Bovendien genereren we een aantal brandboards.
+
+
+
+## Design
+In deze stap 
