@@ -28,7 +28,7 @@ Hiervoor gebruiken we [Canva](https://www.canva.com/).
 Hierna maken we een keuze voor een eerste ontwerp en wordt de definitieve UX-stijl vastgelegd met een brandboard.
 
 ## Implement
-Op basis van het ontwerp en de brandboard wordt een betaversie van de website gebouwd.
+Op basis van het ontwerp en de brandboard wordt een betaversie van de website gebouwd. De content van de teksten wordt hier bepaald.
 
 ## Evaluate
 De betaversie wordt getest met behulp van een guerilla user test:
