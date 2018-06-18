@@ -34,3 +34,8 @@ Op basis van het ontwerp en de brandboard wordt een betaversie van de website ge
 De betaversie wordt getest met behulp van een guerilla user test:
 
 [![](https://raw.githubusercontent.com/minorsmart/webdesign/master/images/usertest.png)](https://youtu.be/0YL0xoSmyZI)
+
+Inspiratie:
+
+> [There is a difference between what people do and what they say](https://youtu.be/mxzK4sWfvH8)
+
