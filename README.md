@@ -35,7 +35,8 @@ De betaversie wordt getest met behulp van een guerilla user test:
 
 [![](https://raw.githubusercontent.com/minorsmart/webdesign/master/images/usertest.png)](https://youtu.be/0YL0xoSmyZI)
 
-Inspiratie:
+## Inspiratie
 
 > [There is a difference between what people do and what they say](https://youtu.be/mxzK4sWfvH8)
+> [Don't ask for feedback](https://youtu.be/8tiuWYs5Z-A)
 
